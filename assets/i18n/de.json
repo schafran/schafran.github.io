@@ -1,0 +1,36 @@
+{
+  "APP": {
+    "CLAIM": "Tauch ein in die wundervolle Welt von Element",
+    "LOGIN": "Anmelden"
+  },
+  "LANGUAGE": {
+    "EN": "English",
+    "DE": "Deutsch"
+  },
+  "NAV": {
+    "ABOUT": "Über",
+    "DOCUMENTATION": "Dokumentation",
+    "LANGUAGE": "Sprache",
+    "LOGOUT": "Abmelden",
+    "OVERVIEW": "Übersicht",
+    "PROFILE": "Profil",
+    "THEME": "Theme"
+  },
+  "HOME": {
+    "HEADING": "Startseite",
+    "INTRO": "Willkommen zum SiMPL Element Starter-Template",
+    "LINK": "Lese die Doku",
+    "SELECT_LANG": "Wähle deine bevorzugte Sprache"
+  },
+  "THEME": {
+    "AUTO": "Auto",
+    "DARK": "Dunkel",
+    "LIGHT": "Hell"
+  },
+  "USER_MANUAL": {
+    "HEADING": "Benutzerhandbuch"
+  },
+  "ADMIN_MANUAL": {
+    "HEADING": "Administrationshandbuch"
+  }
+}
